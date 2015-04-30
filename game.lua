@@ -40,5 +40,6 @@
 			u.loc = { 4 + math.random(4), 4 + math.random(4) }
 		end
 	end
-'
+',
+	debug_name: "data/game.lua"
 }
